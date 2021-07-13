@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SaiMhatre
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I am currently S.Y Computer Engineering student at S.F.I.T.
+I have learned web development, did course on it, worked on Django Framework made some projects.
+I am currently learning Data science and enthusiastic to carry it forward in coming years.
+I had completed my internship on web development in 'THE SPARKS FOUNDATION'.
+I am keen to develop my skills on ML and Competitive Programming.
 
 <!---
 SaiMhatre/SaiMhatre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
